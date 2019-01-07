@@ -14,7 +14,5 @@ The dataset has been downloaded from <a href="https://www.kaggle.com/zynicide/wi
 </ul></p>
 <h2>Acknowledgments</h2>
 We thank <a =href="https://www.linkedin.com/in/zack-thoutt-57275655/">Zack Thoutt</a> as the owner of the data, the use of the information extrated from Kaggle.
-<h2>Inspiration</h2>
-We have been inspired by a friend startup who created a service to expand the Lottery gaming into neighborhood associations.
 <h2>License</h2>
 <p><b>This code is shared under the license: CC0: Public domain license</b></p>
